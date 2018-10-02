@@ -52,7 +52,7 @@ public class StreamExample {
         Student jan = new Student("Jan", "Van Achte", 10, 85);
         Student maxime = new Student("Maxime", "Ramaekers", 1, 76);
         Student jo = new Student("Jo", "Vanpaeschen", 4, 65);
-        Student chiHow = new Student("Chi How", "Hu", 8, 84);
+        Student chiHow = new Student("Chi How", "Chu", 8, 84);
         Student brecht = new Student("Brecht", "Deschoenmaeker", 7, 52);
         Student leander = new Student("Leander", "Van Reeth", 1, 75);
         Student maarten = new Student("Maarten", "Redant", 1, 80);
